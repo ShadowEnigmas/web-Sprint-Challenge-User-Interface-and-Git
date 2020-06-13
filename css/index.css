@@ -187,3 +187,53 @@ footer nav a {
 .b10{
     background-color: skyblue;
 }
+.top-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 28rem;
+    margin-bottom: 3rem;
+}
+.bottom-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 28rem;
+    margin-bottom: 3rem;
+}
+.about-banner{
+    margin-bottom: 1.5rem;
+}
+.About-info{
+    padding: 1.2rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px dashed black;
+}
+.information{
+    width: 25rem;
+    margin-bottom: 3rem;
+}
+.learn-more{
+    text-decoration: none;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: 3px solid black;
+    color: black;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.top-left, .bottom-left, .top-right, .bottom-right{
+    border-bottom: 1px dashed black;
+    width: 45%;
+}
+#bottom-parts{
+    border: none;
+}
+.indented{
+    margin-left: 1.2rem;
+}
+.margined{
+    margin-bottom: 1.1rem;
+}
