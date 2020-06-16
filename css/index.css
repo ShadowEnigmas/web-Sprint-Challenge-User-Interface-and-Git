@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -143,4 +142,98 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.header-nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 4.35rem;
+}
+.header-nav{
+    margin-bottom: 2.5rem;
+}
+.header-nav img{
+    margin-right: 2.2rem;
+}
+.banner-image{
+    margin-bottom: 1.5rem;
+}
+.b1{
+ background-color: teal;
+}
+.b2{
+    background-color: gold;
+}
+.b3{
+    background-color: cadetblue;
+}
+.b4{
+    background-color: coral;
+}
+.b5{
+    background-color: crimson;
+}
+.b6{
+    background-color: forestgreen;
+}
+.b7{
+    background-color: darkorchid;
+}
+.b8{
+    background-color: hotpink;
+}
+.b9{
+    background-color: indigo;
+}
+.b10{
+    background-color: dodgerblue;
+}
+.top-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 28rem;
+    margin-bottom: 3rem;
+}
+.bottom-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 28rem;
+    margin-bottom: 3rem;
+}
+.about-banner{
+    margin-bottom: 1.5rem;
+}
+.About-info{
+    padding: 1.2rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 1px dashed black;
+}
+.information{
+    width: 25rem;
+    margin-bottom: 3rem;
+}
+.learn-more{
+    text-decoration: none;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: 3px solid black;
+    color: black;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.top-left, .bottom-left, .top-right, .bottom-right{
+    border-bottom: 1px dashed black;
+    width: 45%;
+}
+#bottom-parts{
+    border: none;
+}
+.indented{
+    margin-left: 1.2rem;
+}
+.margined{
+    margin-bottom: 1.1rem;
 }
